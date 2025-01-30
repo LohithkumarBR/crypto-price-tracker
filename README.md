@@ -1,4 +1,4 @@
-# crypto-price-tracker
+# Crypto-price-tracker
 These notes contain a concise list of the terminal commands used while creating a data science app 
 ## Create project folder
 ```bash
